@@ -1,2 +1,1 @@
-# Night-Linux
-Coustom Arch Linux distro
+This part of the os was built by me.
